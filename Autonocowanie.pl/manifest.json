@@ -8,11 +8,6 @@
       "matches": ["https://www.nocowanie.pl/lokalizacje/szukam_noclegu/ogloszenia/"],
       "js": ["/scripts/content.js"]
     },
-    {
-      "matches": ["https://szukam-noclegu.nocowanie.pl/*/*"],
-      "js": ["/scripts/content2.js"]
-    }
-
   ],
   "permissions": ["activeTab", "tabs", "storage", "scripting"],
   "action": {
